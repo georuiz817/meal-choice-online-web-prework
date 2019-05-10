@@ -1,4 +1,4 @@
 def meal_choice("meat")
-  puts "#{choice}"
+  puts "#{}"
   end
   
